@@ -1,0 +1,6 @@
+hcloud_token = "sNEt5n7mWVUOfVw9DAIi4QCGbjuu37VuzS1EGS6IuKfnNlNwJG35dP3t4UyvBrlC"
+location = "nbg1"
+control_plane_type = "cx23"
+worker_type = "cx23"
+os_image = "ubuntu-24.04"
+ssh_private_key_path = "~/.ssh/id_rsa"
